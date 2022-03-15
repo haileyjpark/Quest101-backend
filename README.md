@@ -42,60 +42,6 @@ Common : Git, Github, Slack, Trello, Notion
 
 
 
-
-## Project Structure
-```bash
-.
-├── README.md
-├── core
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── tests.py
-│   ├── utils.py
-│   └── views.py
-├── creators
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── serializer.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── manage.py
-├── products
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── migrations
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   └── views.py
-├── pull_request_template.md
-├── quest101
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-├── requirements.txt
-└── users
-    ├── __init__.py
-    ├── admin.py
-    ├── apps.py
-    ├── migrations
-    ├── models.py
-    ├── tests.py
-    ├── urls.py
-    └── views.py
-```
-
-
 ## 구현 기능
 
 
@@ -157,6 +103,67 @@ Common : Git, Github, Slack, Trello, Notion
 > - 크리에이터 센터 새 클래스 생성 (항목별 저장 기능)
 > - 이미지 s3 업로드 / FormData 처리
 > - 클래스 편집 및 삭제
+
+
+
+
+## Project Structure
+```bash
+.
+├── README.md
+├── core
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── tests.py
+│   ├── utils.py
+│   └── views.py
+├── creators
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── serializer.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── manage.py
+├── products
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── migrations
+│   ├── models.py
+│   ├── tests.py
+│   ├── urls.py
+│   └── views.py
+├── pull_request_template.md
+├── quest101
+│   ├── __init__.py
+│   ├── asgi.py
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── requirements.txt
+└── users
+    ├── __init__.py
+    ├── admin.py
+    ├── apps.py
+    ├── migrations
+    ├── models.py
+    ├── tests.py
+    ├── urls.py
+    └── views.py
+```
+
+
+
+## ERD Modeling
+![](https://haileysbucket.s3.ap-northeast-2.amazonaws.com/%E1%84%8F%E1%85%B0%E1%84%89%E1%85%B3%E1%84%90%E1%85%B3+%E1%84%86%E1%85%A9%E1%84%83%E1%85%A6%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BC.png)
+
 
 
 
