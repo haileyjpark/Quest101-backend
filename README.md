@@ -33,7 +33,7 @@ Front-End : JavaScript, React.js, Style Component
 
 
  
-Back-End : Python, Django, MySQL, Miniconda 
+Back-End : Python, Django, MySQL, Miniconda, DRF(리팩토링)
 
 
  
