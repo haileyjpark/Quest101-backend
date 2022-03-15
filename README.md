@@ -49,85 +49,29 @@ Common : Git, Github, Slack, Trello, Notion
 ├── README.md
 ├── core
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── admin.cpython-38.pyc
-│   │   ├── apps.cpython-38.pyc
-│   │   ├── apps.cpython-39.pyc
-│   │   ├── models.cpython-38.pyc
-│   │   ├── models.cpython-39.pyc
-│   │   ├── utils.cpython-38.pyc
-│   │   └── utils.cpython-39.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── __init__.cpython-38.pyc
-│   │       └── __init__.cpython-39.pyc
 │   ├── models.py
 │   ├── tests.py
 │   ├── utils.py
 │   └── views.py
 ├── creators
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── admin.cpython-38.pyc
-│   │   ├── apps.cpython-38.pyc
-│   │   ├── models.cpython-38.pyc
-│   │   ├── serializer.cpython-38.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   └── views.cpython-38.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       └── __init__.cpython-38.pyc
 │   ├── models.py
 │   ├── serializer.py
 │   ├── tests.py
 │   ├── urls.py
 │   └── views.py
-├── csv
-│   ├── courses.csv
-│   ├── coursestat.csv
-│   ├── media.csv
-│   └── subcategory.csv
-├── db_uploader.py
-├── hailey.pem
 ├── manage.py
 ├── products
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── admin.cpython-38.pyc
-│   │   ├── apps.cpython-38.pyc
-│   │   ├── apps.cpython-39.pyc
-│   │   ├── models.cpython-38.pyc
-│   │   ├── models.cpython-39.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   ├── urls.cpython-39.pyc
-│   │   ├── views.cpython-38.pyc
-│   │   └── views.cpython-39.pyc
 │   ├── admin.py
 │   ├── apps.py
 │   ├── migrations
-│   │   ├── 0001_initial.py
-│   │   ├── 0002_initial.py
-│   │   ├── 0003_alter_course_discount_rate_and_more.py
-│   │   ├── __init__.py
-│   │   └── __pycache__
-│   │       ├── 0001_initial.cpython-38.pyc
-│   │       ├── 0001_initial.cpython-39.pyc
-│   │       ├── 0002_initial.cpython-38.pyc
-│   │       ├── 0002_initial.cpython-39.pyc
-│   │       ├── 0003_alter_course_discount_rate_and_more.cpython-38.pyc
-│   │       ├── __init__.cpython-38.pyc
-│   │       └── __init__.cpython-39.pyc
 │   ├── models.py
 │   ├── tests.py
 │   ├── urls.py
@@ -135,15 +79,6 @@ Common : Git, Github, Slack, Trello, Notion
 ├── pull_request_template.md
 ├── quest101
 │   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-38.pyc
-│   │   ├── __init__.cpython-39.pyc
-│   │   ├── settings.cpython-38.pyc
-│   │   ├── settings.cpython-39.pyc
-│   │   ├── urls.cpython-38.pyc
-│   │   ├── urls.cpython-39.pyc
-│   │   ├── wsgi.cpython-38.pyc
-│   │   └── wsgi.cpython-39.pyc
 │   ├── asgi.py
 │   ├── settings.py
 │   ├── urls.py
@@ -151,28 +86,9 @@ Common : Git, Github, Slack, Trello, Notion
 ├── requirements.txt
 └── users
     ├── __init__.py
-    ├── __pycache__
-    │   ├── __init__.cpython-38.pyc
-    │   ├── __init__.cpython-39.pyc
-    │   ├── admin.cpython-38.pyc
-    │   ├── apps.cpython-38.pyc
-    │   ├── apps.cpython-39.pyc
-    │   ├── models.cpython-38.pyc
-    │   ├── models.cpython-39.pyc
-    │   ├── urls.cpython-38.pyc
-    │   ├── urls.cpython-39.pyc
-    │   ├── views.cpython-38.pyc
-    │   └── views.cpython-39.pyc
     ├── admin.py
     ├── apps.py
     ├── migrations
-    │   ├── 0001_initial.py
-    │   ├── __init__.py
-    │   └── __pycache__
-    │       ├── 0001_initial.cpython-38.pyc
-    │       ├── 0001_initial.cpython-39.pyc
-    │       ├── __init__.cpython-38.pyc
-    │       └── __init__.cpython-39.pyc
     ├── models.py
     ├── tests.py
     ├── urls.py
