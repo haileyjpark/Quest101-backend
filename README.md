@@ -6,12 +6,12 @@
 
 ## 팀원
  
-**_FE_** : 정소영 원소연 이용우
+**_FE_** : [정소영](https://github.com/sozeroJung) [원소연](https://github.com/dnjstd) [이용우](https://github.com/moolbum)
 
 
 
 
-**_BE_** : 박정현 이재문 이태연
+**_BE_** : 박정현 [이재문](https://github.com/jaemoon406) [이태연](https://github.com/whytili89)
 
 
 
