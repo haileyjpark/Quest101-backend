@@ -210,7 +210,6 @@ class CourseView(View):
     @transaction.atomic()
     def post(self,request, course_id):
         try:
-            print(request.FILES)
             course = Course.objects.get(user=request.user, id=course_id)
             urls = image_handler.upload_files(request.FILES.getlist('detail_image_url'))
             
