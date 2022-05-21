@@ -1,0 +1,193 @@
+{
+  "results": [
+    {
+      "course_id": 3,
+      "thumbnail": "https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1867&q=80",
+      "user_name": "라오스",
+      "sub_category": "sub4",
+      "course_name": "[🏆TOP30] 급부상 중인 블루오션 <인스타 마켓> 억대 매출 팔이피플에게 배우기",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0
+    },
+    {
+      "course_id": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1867&q=80",
+      "user_name": "이땡땡",
+      "sub_category": "sub3",
+      "course_name": "[🏆TOP30] 천재 사업가 '대학생김머신'의 무엇이든 팔 수 있는 쇼핑몰 창업가이드",
+      "price": "8000.00",
+      "payment_period": 3,
+      "course_like": 0
+    },
+    {
+      "course_id": 2,
+      "thumbnail": "https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1867&q=80",
+      "user_name": "김가나",
+      "sub_category": "sub2",
+      "course_name": "[🎁연말특가] SNS 속 그 집! 세상에 하나뿐인 집을 만드는 '셀프 인테리어 바이블'",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0
+    },
+    {
+      "course_id": 4,
+      "thumbnail": "https://images.unsplash.com/photo-1626544827763-d516dce335e2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1867&q=80",
+      "user_name": "라오스",
+      "course_id": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1638898863117-9625f88614e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1180&q=80",
+      "user_name": "라오스",
+      "sub_category": "sub4",
+      "course_name": "[:트로피:TOP30] 급부상 중인 블루오션 <인스타 마켓> 억대 매출 팔이피플에게 배우기",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 30000
+    },
+    {
+      "course_id": 2,
+      "thumbnail": "https://images.unsplash.com/photo-1636622433525-127afdf3662d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2064&q=80",
+      "user_name": "이땡땡",
+      "sub_category": "sub3",
+      "course_name": "[:트로피:TOP30] 천재 사업가 ‘대학생김머신‘의 무엇이든 팔 수 있는 쇼핑몰 창업가이드",
+      "price": "8000.00",
+      "payment_period": 3,
+      "course_like": 0,
+      "discount_price": 27000
+    },
+    {
+      "course_id": 3,
+      "thumbnail": "https://images.unsplash.com/photo-1445384763658-0400939829cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzF8fGhlYWx0aHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+      "user_name": "박정현",
+      "sub_category": "sub2",
+      "course_name": "평범한 사람의 헬스 홀로서기 - 박정현의 홈트레이닝 하루완성",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 45000
+    },
+    {
+      "course_id": 4,
+      "thumbnail": "https://images.unsplash.com/photo-1635399860495-2a2802a6df5e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "user_name": "물범",
+      "sub_category": "sub4",
+      "course_name": "클래스3",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 15000
+    },
+    {
+      "course_id": 5,
+      "thumbnail": "https://images.unsplash.com/photo-1635492491273-455af7728453?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1320&q=80",
+      "user_name": "이용우",
+      "sub_category": "sub3",
+      "course_name": "클래스1",
+      "price": "8000.00",
+      "payment_period": 3,
+      "course_like": 0,
+      "discount_price": 34000
+    },
+    {
+      "course_id": 6,
+      "thumbnail": "https://images.unsplash.com/photo-1637511626493-bef85b22d1d5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMwNXxDRHd1d1hKQWJFd3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "user_name": "이태연",
+      "sub_category": "sub2",
+      "course_name": "클래스2",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 55000
+    },
+    {
+      "course_id": 7,
+      "thumbnail": "https://images.unsplash.com/photo-1636907312269-d1facecaf8a7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM0NnxDRHd1d1hKQWJFd3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "user_name": "이재문",
+      "sub_category": "도자기 공예",
+      "course_name": "나만의 도자기를 직접 만들고 채색까지, 집 안의 도예 공방",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 10,
+      "discount_price": 25000
+    }
+  ],
+  "purchaseList": [
+    {
+      "course_id": 1,
+      "thumbnail": "https://images.unsplash.com/photo-1636044594149-6e2f289c3868?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "user_name": "라오스",
+      "sub_category": "sub4",
+      "course_name": "[:트로피:TOP30] 급부상 중인 블루오션 <인스타 마켓> 억대 매출 팔이피플에게 배우기",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 15000
+    },
+    {
+      "course_id": 2,
+      "thumbnail": "https://images.unsplash.com/photo-1636051028886-0059ad2383c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
+      "user_name": "이땡땡",
+      "sub_category": "sub3",
+      "course_name": "[:트로피:TOP30] 천재 사업가 ‘대학생김머신‘의 무엇이든 팔 수 있는 쇼핑몰 창업가이드",
+      "price": "8000.00",
+      "payment_period": 3,
+      "course_like": 0,
+      "discount_price": 17500
+    },
+    {
+      "course_id": 3,
+      "thumbnail": "https://images.unsplash.com/photo-1634157703702-3c124b455499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3028&q=80",
+      "user_name": "김가나",
+      "sub_category": "sub2",
+      "course_name": "[:선물:연말특가] SNS 속 그 집! 세상에 하나뿐인 집을 만드는 ‘셀프 인테리어 바이블’",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 25000
+    },
+    {
+      "course_id": 4,
+      "thumbnail": "https://images.unsplash.com/photo-1635224734378-4a74684dc6d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1820&q=80",
+      "user_name": "원소연",
+      "sub_category": "sub4",
+      "course_name": "클래스3",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 35000
+    },
+    {
+      "course_id": 5,
+      "thumbnail": "https://images.unsplash.com/photo-1633793675529-58eecb6ea16f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDgwMXxDRHd1d1hKQWJFd3x8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60",
+      "user_name": "정소영",
+      "sub_category": "sub3",
+      "course_name": "클래스1",
+      "price": "8000.00",
+      "payment_period": 3,
+      "course_like": 0,
+      "discount_price": 42000
+    },
+    {
+      "course_id": 6,
+      "thumbnail": "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+      "user_name": "김가나",
+      "sub_category": "sub2",
+      "course_name": "클래스2",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 12000
+    },
+    {
+      "course_id": 7,
+      "thumbnail": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80",
+      "user_name": "김가나",
+      "sub_category": "sub2",
+      "course_name": "클래스2",
+      "price": "9000.00",
+      "payment_period": 5,
+      "course_like": 0,
+      "discount_price": 5000
+    }
+  ]
+}

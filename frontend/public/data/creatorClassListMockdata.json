@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "쉽게 배우는 드로잉 클래스",
+    "thumbnail_image_url": "https://url.kr/qmyi8p",
+    "detail_media": ["https://url.kr/6ca1m8", "https://url.kr/rdkbzn"],
+    "description": null,
+    "category": "3",
+    "sub_category": "디지털 드로잉",
+    "healthStat": 2,
+    "intellectStat": 4,
+    "charmStat": 3,
+    "artStat": 2,
+    "status": "클래스 준비",
+    "level": "중급자",
+    "user_name": "soso",
+    "user_phone_number": "01012345678",
+    "user_description": "반갑습니다"
+  },
+  {
+    "id": 2,
+    "thumbnail_image_url": null,
+    "coverGallery": null,
+    "name": null,
+    "status": null,
+    "healthStat": null,
+    "intellectStat": null,
+    "charmStat": null,
+    "artStat": null,
+    "category": null,
+    "sub_category": null,
+    "level": null,
+    "description": null,
+    "user_name": null,
+    "user_description": null,
+    "user_phone_number": null
+  }
+]

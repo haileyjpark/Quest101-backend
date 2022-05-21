@@ -1,0 +1,17 @@
+{
+  "user_name": "물범물범",
+  "page_image": "https://images.pexels.com/photos/631477/pexels-photo-631477.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+  "profile": "https://images.pexels.com/photos/10311051/pexels-photo-10311051.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260 ",
+  "sub_category": "그림",
+  "course_name": "스마트폰 활용법 기종 상관 없이 DSLR같은 풍경 사진 찍기",
+  "description": "개발에 빠질 수 없는 Toggle 기능은 기본적으로 state을 true/false로 변경하면서 show, hide를 하는 것이 일반적이지만 보고 싶은 글만 보거나 대댓글 쓰기 기능을 구현할 때는 부분 Toggle을 사용할 때가 많다.일반적인 show, hide는 구현방법이 쉽지만 부분적인 Toggle 같은 경우에는 어떻게 하면 좋을 지 공유하려고 한다.",
+  "price": 39900,
+  "discount_rate": "30%",
+  "discount_price": 120200,
+  "payment_period": "4",
+  "course_like": 5,
+  "str": 10,
+  "int": 20,
+  "dex": 40,
+  "luk": 10
+}
